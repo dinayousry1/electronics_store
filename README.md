@@ -15,4 +15,3 @@ online store sells electronics such as laptops, phones, watches, and headsets. I
 ![10](https://github.com/dina841/electronics_store/assets/149843738/219477cd-7ca0-4ee4-bed7-67e8c480962b)
 ![11](https://github.com/dina841/electronics_store/assets/149843738/15ae6c0c-bdf0-4ef1-bf67-96baf517cfa6)
 ![12](https://github.com/dina841/electronics_store/assets/149843738/ab4684b1-31c9-4a94-9314-a25cc9cdb276)
-![13](https://github.com/dina841/electronics_store/assets/149843738/e005ec49-59ed-4a80-8f5a-addb349bd5f9)
